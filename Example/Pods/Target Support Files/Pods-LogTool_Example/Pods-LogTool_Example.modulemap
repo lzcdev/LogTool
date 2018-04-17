@@ -1,0 +1,6 @@
+framework module Pods_LogTool_Example {
+  umbrella header "Pods-LogTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

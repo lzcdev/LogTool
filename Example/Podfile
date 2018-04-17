@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LogTool_Example' do
+  pod 'LogTool', :path => '../'
+
+  target 'LogTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

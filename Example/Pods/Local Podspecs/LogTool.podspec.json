@@ -1,0 +1,22 @@
+{
+  "name": "LogTool",
+  "version": "0.1.0",
+  "summary": "A short description of LogTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lzcdev/LogTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lzcdev": "lzc2134@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lzcdev/LogTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LogTool/Classes/**/*"
+}

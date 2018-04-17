@@ -1,0 +1,16 @@
+PODS:
+  - LogTool (0.1.0)
+
+DEPENDENCIES:
+  - LogTool (from `../`)
+
+EXTERNAL SOURCES:
+  LogTool:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LogTool: f957edfeff6ce6702643af6c4faaf8d3108d597a
+
+PODFILE CHECKSUM: cb7205ea64d0e7a126ca2a238b532ab814f3505e
+
+COCOAPODS: 1.2.1

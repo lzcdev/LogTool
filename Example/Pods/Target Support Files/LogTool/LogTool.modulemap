@@ -1,0 +1,6 @@
+framework module LogTool {
+  umbrella header "LogTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
